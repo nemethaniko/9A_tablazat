@@ -1,0 +1,18 @@
+Tombola										
+ Osztály	Fiúk száma	Lányok száma	Osztály-létszám	Fiúk %-os aránya	Eladott tombolajegy			Bevétel	Átlagos bevétel
+					Fiúk	Lányok	Összesen			
+9A	13	15			33	30				
+9B	17	14			73	43				
+9C	11	16			74	25				
+10A	15	14			73	25				
+10B	15	13			32	53				
+10C	15	13			55	28				
+11A	16	15			62	43				
+11B	16	14			57	60				
+11C	17	12			72	72				
+12A	13	16			33	72				
+12B	12	13			53	36				
+12C	17	15			41	32				
+										
+										
+Tombolajegy ára:		500
