@@ -1,0 +1,33 @@
+Névsor	Fiú	Német nyelv	Angol nyelv	Testnevelés	Hiányzás
+Aulechla  Anita	N	3		3	3
+Bana Tímea	N	4		F	5
+Fülöp Zsolt	I		5	4	
+Harcsa Zsuzsanna	N		5	5	8
+Hende Balázs	I	3		4	2
+Herczog István	I		1	5	
+Horváth Dóra	N	3		4	1
+Lénárd Zita	N	2		4	
+Nagy Richard	I		2	3	
+Pintér István	I		2	2	2
+Rafael Zoltán	I		4	5	2
+Rohály Barbara	N	5		F	3
+Sándor Kálmán	I	5		5	5
+Svajer Krisztián	I		5	F	
+Takács Balázs	I		4	4	9
+Urbán Anita	N		4	F	5
+Tantárgyi átlag					
+					
+Osztálylétszám:					
+Angolul tanulók száma					
+Németül tanulók száma					
+Azok száma, akik nem hiányoztak					
+Fiúk száma					
+Lányok száma					
+Testnevelésbõl felmentettek száma:					
+					
+	Jegyek száma:	Német nyelv	Angol nyelv	Testnevelés	
+	5				
+	4				
+	3				
+	2				
+	1				
