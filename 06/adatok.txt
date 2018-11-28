@@ -1,0 +1,18 @@
+Névsor	Fiú	Hétfõ	Kedd	Szerda	Csütörtök	Péntek	Összesen	Kereset	Befizet
+Aulechla  Anita	n	11	19	16	18	14			
+Bana Tímea	n	17	13	12	15	20			
+Fülöp Zsolt	i	16	12	18	15	11			
+Harcsa Zsuzsanna	n	14	19	16	13	17			
+Hende Balázs	i	17	14	20					
+Herczog István	i	15	18	16	12	19			
+Horváth Dóra	n	14	18	16	19	11			
+Lénárd Zita	n	20		12	13	17			
+Nagy Richard	i	11	19	16	18	14			
+Pintér István	i	10	17	12	16	11			
+Rafael Zoltán	i	19	12	20	13	14			
+Rohály Barbara	n	15	11	19		18			
+Sándor Kálmán	i	17	10	12	20	13			
+Összesen									
+									
+Egységár:	200								
+Befizet:	0,1								
